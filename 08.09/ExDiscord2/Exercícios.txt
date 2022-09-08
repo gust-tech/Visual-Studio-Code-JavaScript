@@ -1,0 +1,9 @@
+
+1 - Faça um Algoritmo que receba o preço de custo de um produto e mostre o valor da venda. sabe-se que o preço de custo receberá um acréscimo de acordo com um percentual informado pelo usuário 
+
+2 - faça um algoritmo que receba um valor que foi depositado e exiba o valor com rendimento após um mês. considere fixo o juro da poupança em 0,70% a.m
+
+3 - Faça um algoritmo que efetua a apresentação do valor da conversão em real (R$) de um valor lido em dólar (US$). o algoritmo deverá solicitar o valor da cotação do dólar.
+
+
+4 - Escrever um algoritmo que receba um número e mostre uma mensagem caso este número seja maior que 80, menor que 25 ou igual a 40
